@@ -1,0 +1,14 @@
+{
+  "name":"input-event",
+  "version":"0.0.1",
+  "author": {
+    "name": "Daniel Risacher",
+    "email": "dan@risacher.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/risacher/input-event"
+  },
+  "dependencies": {
+  }
+}
