@@ -5,7 +5,7 @@ nodejs module for reading keyboard &amp; mouse events from /dev/input/eventX  (t
 
 based on github.com/Bornholm/node-keyboard, which in turn was based on
 http://nodebits.org/linux-joystick.  This was tested on a Raspberry Pi
-with a 3-0bit kernel.  There is code to detect 64-bit kernel but it is
+with a 32-bit kernel.  There is code to detect 64-bit kernel but it is
 untested.
 
 See also: https://www.kernel.org/doc/Documentation/input/input.txt
